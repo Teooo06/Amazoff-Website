@@ -8,7 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>ADDCart</title>
+    <link rel="icon" href="./images/social.png" type="image/x-icon">
+
 </head>
 <body>
 <%@include file="connessione.jsp" %>

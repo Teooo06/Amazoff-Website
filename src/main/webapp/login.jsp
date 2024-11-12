@@ -10,7 +10,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Login</title>
+    <link rel="icon" href="./images/social.png" type="image/x-icon">
+
 </head>
 <body>
     <h1>Pagina di recupero parametri</h1>

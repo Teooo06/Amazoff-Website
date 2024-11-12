@@ -11,6 +11,8 @@
 <html>
 <head>
     <title>Compra</title>
+    <link rel="icon" href="./images/social.png" type="image/x-icon">
+
 </head>
 <body>
 <%

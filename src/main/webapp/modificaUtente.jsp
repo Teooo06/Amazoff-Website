@@ -8,6 +8,8 @@
     <style>
         /* Puoi aggiungere il tuo CSS personalizzato qui */
     </style>
+    <link rel="icon" href="./images/social.png" type="image/x-icon">
+
 </head>
 <body>
 <%
